@@ -1,0 +1,9 @@
+{
+  "name": "tdd-JEST",
+  "version": "1.0.0",
+  "author": "Nedylko Raykov",
+  "main": "dictionary.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  }
+}
