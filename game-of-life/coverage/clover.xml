@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1586256342221" clover="3.2.0">
-  <project timestamp="1586256342221" name="All files">
-    <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1" elements="16" coveredelements="16" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+<coverage generated="1586256495935" clover="3.2.0">
+  <project timestamp="1586256495935" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1" elements="8" coveredelements="8" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
     <file name="game.js" path="S:\GitProjects\tdd-JEST\game-of-life\game.js">
-      <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="3" count="4" type="cond" truecount="4" falsecount="0"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="8" count="3" type="cond" truecount="4" falsecount="0"/>
-      <line num="9" count="1" type="stmt"/>
-      <line num="13" count="2" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
+      <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="1" count="4" type="cond" truecount="5" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
